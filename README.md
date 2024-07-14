@@ -5,7 +5,7 @@ This PowerShell script automates the management of Active Directory user account
 ## Prerequisites
 
 - Windows PowerShell (Version 5.1 or higher)
-- Active Directory PowerShell Module installiert (Import-Module ActiveDirectory)
+- Active Directory PowerShell Module (Import-Module ActiveDirectory)
 
 ## How to Use
 
